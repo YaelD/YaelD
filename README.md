@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yael</h1>
-<h3 align="center">A Computer Science graduate and a passionate software developer!</h3>
+<h1 align="left">Hi 👋, I'm Yael</h1>
+<h3 align="left">A Computer Science graduate and a passionate software developer!</h3>
 
 - 🌱 I’m currently learning **full-stack web development technologies- JS, Node.js, React, MongoDB, HTML, CSS**
 
