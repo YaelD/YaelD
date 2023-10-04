@@ -1,9 +1,25 @@
-<h1 align="left">Hi 👋, I'm Yael</h1>
-<h3 align="left">A passionate and curious software developer with B.Sc in Computer Science!</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Yael</h1>
+  <h4>A passionate and curious software developer with B.Sc in Computer Science!</h4>
+</div>
 
-- 🌱 I’m currently learning **full-stack web development technologies- JS, Node.js, React, MongoDB, HTML, CSS**
+## About Me 🌟
+Software Developer with a high work ethic, self-learner, and team player with effective communication skills. 
+Passionate about complex problem solving, enjoy working on full life cycle projects, and highly motivated to learn new technologies and handle technological challenges.
 
-<h3 align="left">Connect with me:</h3>
+
+- 🌱 I am currently learning new technologies and independently developing a system for organizing job search processes
+
+
+## Skills 🚀
+- **Backend Development:** Java, Python, FastAPI, SQLModel, Django, JavaScript, Node.js, C#, C++
+- **Frontend Development:** React, HTML, CSS, Material-UI
+- **Databases:** SQLite, PostgreSQL, MongoDB
+- **Problems Solving:** Algorithm design, Data structures
+- **Code design:** OOP, SOLID, Design Patterns
+
+
+## Connect with me 🔗
 <p align="left">
 <a href="https://www.linkedin.com/in/yael-davidov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yael-davidov/" height="30" width="40" /></a>
 </p>
