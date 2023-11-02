@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Yael</h1>
-  <h4>A passionate and curious software developer with B.Sc in Computer Science!</h4>
+  <h3>A passionate and curious software developer with B.Sc in Computer Science!</h3>
 </div>
 
 ## About Me 🌟
